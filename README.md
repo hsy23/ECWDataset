@@ -19,7 +19,7 @@ The following dataset is recommended for testing.
 
 - [ ] **ECW-New-Infras**.: The workload series running on infrastructure that has never been present in the ECW.
 
-If you use this dataset please cite the work DynEformer @ KDD2023 [paper](https://arxiv.org/abs/2306.01507)[code](https://github.com/hsy23/KDD23_DynEformer) (The Bibtex version is comming soon):
+If you use this dataset please cite the work DynEformer @ KDD2023 [\[paper\]](https://arxiv.org/abs/2306.01507), [\[code\]](https://github.com/hsy23/KDD23_DynEformer) (The Bibtex version is comming soon):
 
 > Shaoyuan Huang, Zheng Wang, Heng Zhang, Xiaofei Wang, Cheng Zhang, and Wenyu Wang. 2023. One for All: Unified Workload Prediction for Dynamic Multi-tenant Edge Cloud Platforms. In Proceedings of the 29th ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD ’23), August 6–10, 2023, Long Beach, CA, USA. ACM, New York, NY, USA, 10 pages. https://doi.org/10.1145/3580305.3599453
 
