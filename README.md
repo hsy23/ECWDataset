@@ -1,5 +1,5 @@
 # Edge Cloud servers Workload Dataset（ECWDataset）
-In this Github repo, we provide several datasets could be used for the dynamic sequence time-series problem. All datasets have been preprocessed and they were stored as .csv files. The dataset ranges from 2022/08 to 2022/10. 
+In this Github repo, we provide several datasets could be used for the dynamic sequence time-series problem. All datasets have been preprocessed and they were stored as .npy files. The dataset ranges from 2022/08 to 2022/10. 
 
 **Data background:** The ECW is a real-world dataset utilized in our study [One for All: Unified Workload Prediction for Dynamic Multi-tenant Edge Cloud Platforms](https://github.com/hsy23/KDD23_DynEformer). The whole dataset encompasses diverse load logs (e.g., **bandwidth for ECW**, CPU, storage) and abundant cross-domain static data from a leading edge cloud service company that provides mature idle computing resource integration and edge cloud resource provisioning.
 
