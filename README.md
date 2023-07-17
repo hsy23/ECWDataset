@@ -43,7 +43,7 @@ We use the .npy file format to save the data, an edge server workload demo of th
 
 <div align="center">
   <img src="https://github.com/hsy23/ECWDataset/assets/45703329/5b7189dd-71f0-4097-b945-bdbf51ef43aa">
-  <p>Figure 2.The process of building the global pool.</p>
+  <p>Figure 2. Edge server workload demo.</p>
 </div>
 
 | Field | bw_upload | hour | day | week | province | bandwidth_type | nat_type | isp | billing_rule | upbandwidth | upbandwidth_base | cpu_num | memory_size | disk_size | test_sat | loss_sat |
