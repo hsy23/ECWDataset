@@ -5,7 +5,7 @@ In this Github repo, we provide several datasets could be used for the dynamic s
 
 *Dataset list* (updating)
 
-- [x] **ECW-08**: A matrix shaped as **797 $\times$ 720 $\times$ 16** represents the upload bandwidth workload variation of 797 edge servers over 720 hours (24\*30) in 2022/08. 16 is the feature dimension of the data, containing 4-dimensional dynamic features and 12-dimensional static content features from the cross domain. 
+- [x] **ECW-08**: A matrix shaped as **797 $ \times $ 720 $\times$ 16** represents the upload bandwidth workload variation of 797 edge servers over 720 hours (24\*30) in 2022/08. 16 is the feature dimension of the data, containing 4-dimensional dynamic features and 12-dimensional static content features from the cross domain. 
 
 - [x] **ECW-09**: A matrix shaped as **1022 $\times$ 720 $\times$ 16** represents the upload bandwidth workload variation of 1022 edge servers over 720 hours (24\*30) in 2022/09.
 
