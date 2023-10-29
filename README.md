@@ -23,6 +23,22 @@ If you use this dataset please cite the work DynEformer @ KDD2023 [\[paper\]](ht
 
 > Shaoyuan Huang, Zheng Wang, Heng Zhang, Xiaofei Wang, Cheng Zhang, and Wenyu Wang. 2023. One for All: Unified Workload Prediction for Dynamic Multi-tenant Edge Cloud Platforms. In Proceedings of the 29th ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD ’23), August 6–10, 2023, Long Beach, CA, USA. ACM, New York, NY, USA, 10 pages. https://doi.org/10.1145/3580305.3599453
 
+> @inproceedings{10.1145/3580305.3599453,  
+author = {Huang, Shaoyuan and Wang, Zheng and Zhang, Heng and Wang, Xiaofei and Zhang, Cheng and Wang, Wenyu},  
+title = {One for All: Unified Workload Prediction for Dynamic Multi-Tenant Edge Cloud Platforms},  
+year = {2023},  
+isbn = {9798400701030},  
+publisher = {Association for Computing Machinery},  
+address = {New York, NY, USA},  
+url = {https://doi.org/10.1145/3580305.3599453},  
+doi = {10.1145/3580305.3599453},  
+booktitle = {Proceedings of the 29th ACM SIGKDD Conference on Knowledge Discovery and Data Mining},  
+pages = {788–797},  
+numpages = {10},  
+location = {Long Beach, CA, USA},  
+series = {KDD '23}  
+}
+
 ## Why Cross-domain Static Content is involved in ECW?
 The cross-domain data points, which encompass 12 dimensions of static server hardware attributes, including maximum bandwidth, number of CPUs, location, and other infrastructure characteristics. This data is collected when edge servers join the Multi-tenant Edge Cloud Platforms(MT-ECP) or during subsequent updates. Incorporating cross-domain data is aimed to further enhance model's robustness, as noted in previous research (Lim et al. [a]). Specifically, for workload prediction in MT-ECP, server features such as hardware attributes and geographical location significantly influence workload variations.
 
