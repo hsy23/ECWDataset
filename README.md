@@ -3,6 +3,8 @@ In this Github repo, we provide several datasets could be used for the dynamic s
 
 **Data background:** The ECW is a real-world dataset utilized in our study [One for All: Unified Workload Prediction for Dynamic Multi-tenant Edge Cloud Platforms](https://github.com/hsy23/KDD23_DynEformer). The whole dataset encompasses diverse load logs (e.g., **bandwidth for ECW**, CPU, storage) and abundant cross-domain static data from a leading edge cloud service company that provides mature idle computing resource integration and edge cloud resource provisioning.
 
+**Note:** The uploaded data has been normalized to the minimum and maximum for privacy reasons.
+
 *Dataset list* (updating)
 
 - [x] **ECW-08**: A matrix shaped as **797 $\times$ 720 $\times$ 16** represents the upload bandwidth workload variation of 797 edge servers over 720 hours (24\*30) in 2022/08. 16 is the feature dimension of the data, containing 4-dimensional dynamic features and 12-dimensional static content features from the cross domain. 
