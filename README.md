@@ -11,15 +11,13 @@ In this Github repo, we provide several datasets could be used for the dynamic s
 
 - [x] **ECW-09**: A matrix shaped as **1022 $\times$ 720 $\times$ 16** represents the upload bandwidth workload variation of 1022 edge servers over 720 hours (24\*30) in 2022/09.
 
-- [ ] ECW-min: Workload logs with a granularity of every 5 minutes of upload bandwidth, allows for finer granularity load changes compared to ECW.
-
 The following dataset is recommended for testing.
 
-- [ ] **ECW-App-Switch-sample**: The workload series where application switching occurred during 2022/08/25-2022/08/30. The exact time of application switches can be easily detected by plotting the curve, as it is accompanied by a sudden change in the load change pattern. *If you wish to test the model's capability to handle abrupt changes in time-series patterns (extreme concept-drift), use this dataset.*
+- [x] **ECW-App-Switch-sample**: The workload series where application switching occurred during 2022/08/25-2022/08/30. The exact time of application switches can be easily detected by plotting the curve, as it is accompanied by a sudden change in the load change pattern. *If you wish to test the model's capability to handle abrupt changes in time-series patterns (extreme concept-drift), use this dataset.*
 
-- [ ] **ECW-New-App**: The workload series of the applications that never appeared in ECW-08. If you wish to test the model's generalizability when faced with unknown time-series patterns, use this dataset.
+- [x] **ECW-New-App**: The workload series of the applications that never appeared in ECW-08. If you wish to test the model's generalizability when faced with unknown time-series patterns, use this dataset.
 
-- [ ] **ECW-New-Infras**.: The workload series running on infrastructure that has never been present in the ECW.
+- [x] **ECW-New-Infras**.: The workload series running on infrastructure that has never been present in the ECW.
 
 If you use this dataset please cite the work DynEformer @ KDD2023 [\[paper\]](https://arxiv.org/abs/2306.01507), [\[code\]](https://github.com/hsy23/KDD23_DynEformer) (The Bibtex version is comming soon):
 
